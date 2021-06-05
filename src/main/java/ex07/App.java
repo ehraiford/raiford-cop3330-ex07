@@ -25,7 +25,5 @@ public class App {
         float areaMeters = area / converterConstant;
 
         System.out.print("The area is \n" + area + " square feet \n" + areaMeters + " square meters" );
-
-
     }
 }
